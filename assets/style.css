@@ -1,3 +1,5 @@
+/* index page */
+
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -126,10 +128,7 @@ p {
     margin-right: 20px;
 }
 
-/* portfolio */
-
-
-/* contact page */
+/* contact page below */
 
 h1 {
     margin-left: 20px;
@@ -167,3 +166,5 @@ input[type=submit] {
     background: #4aaaa5;
     border: 0 none;
 }
+
+/* Need to code css for portfolio page */
